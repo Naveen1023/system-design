@@ -1,0 +1,3 @@
+- Requirements
+    - Functional : Real time/delayed notifications, Should support Multiple Notifcation Channels like SMS, EMAIL, In-App Push notifications,  user can opt in/out for certain notifications. No message loss policy.
+    - Non-functional : Scalability, Low Latency, Extensability to more notification channels, Fault Tolerance
